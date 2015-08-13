@@ -2,7 +2,8 @@
 
 This is a generic Ignite logo which you can customize for your city
 
-![http://i.imgur.com/nRA3r6x.png]
+![generic Ignite logo](http://i.imgur.com/nRA3r6x.png "generic Ignite logo")
+
 
 - install the [Insignia Roman](http://fontsov.com/font/insignialtstdroman834.html) font if you don't already have it
 - download this repository to your local computer
